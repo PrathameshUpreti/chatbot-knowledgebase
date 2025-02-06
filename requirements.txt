@@ -1,0 +1,8 @@
+langchain
+python-dotenv
+langchain_community
+langchain-text-splitters
+sentence-transformers
+pypdf
+Faiss
+langchain_huggingface
